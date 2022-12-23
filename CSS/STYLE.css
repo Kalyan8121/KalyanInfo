@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+hr{
+    border: dotted darkgrey 6px;
+    border-bottom: none;
+    width: 4%;
+    margin-top: 100px auto;
+}
+h2{
+    font-weight: normal;
+    margin: auto;
+}
+h1{
+    margin-top: 0;
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.container{
+    margin: 0%;
+    background-color: skyblue;
+    padding-top: 40px;
+   
+}
+.top{
+    margin: 0;
+    position: relative;
+}
+.cloud1{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 300px;
+}
+.cloud2{
+    width: 200px;
+    height: 100px;
+  position: absolute;
+  left: 60px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width:50%;
+    text-align: left;
+
+}
+.webdev{
+    width: 150px;
+    float: left;
+    padding-right: 30px;
+
+}
+.python{
+    width: 150px;
+    float: right;
+    padding-left: 30px;
+
+
+}
+.developer{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+
+}
+.contact-me{
+    margin-bottom: 30px;
+}
+.btn {
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 15px;
+    background: #3498db;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #17618f;
+    background-image: -webkit-linear-gradient(top, #17618f, #94b9d1);
+    background-image: -moz-linear-gradient(top, #17618f, #94b9d1);
+    background-image: -ms-linear-gradient(top, #17618f, #94b9d1);
+    background-image: -o-linear-gradient(top, #17618f, #94b9d1);
+    background-image: linear-gradient(to bottom, #17618f, #94b9d1);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #86C8BC;
+    padding: 50px 0 20px;
+
+  }
+  a{
+    color: #11999E;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #eaf6f6;
+  }
+  .copy{
+    color: #181D31;
+    font-size: 0.96rem;
+    padding: 20px 0px;
+  }
